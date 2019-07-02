@@ -1,0 +1,6 @@
+# JavaScript
+node_modules
+.next
+
+# Mac
+.DS_Store
